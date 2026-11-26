@@ -185,8 +185,6 @@ https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 #EXTINF:-1 tvg-id="StudioOne+.in" tvg-name="Studio One Plus.in" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One Plus
 https://cdn.pishow.tv/ott/live/276/master.m3u8
-#EXTINF:-1 tvg-id="Tamasha.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png" group-title="Movies",Tamasha (1080p)
-https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="US - CW WPCH Atlanta GA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png" group-title="General",CW WPCH Atlanta GA
 https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="Movies",The Movie Club (1080p)
